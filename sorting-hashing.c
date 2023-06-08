@@ -45,7 +45,8 @@ int main()
 	int index = -1;
 
 	srand(time(NULL));
-
+	printf("[----- [Yongho Bae] [2020039008] -----]\n");
+	
 	do{
 		printf("----------------------------------------------------------------\n");
 		printf("                        Sorting & Hashing                       \n");
